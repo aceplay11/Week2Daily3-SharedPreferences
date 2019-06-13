@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Week2Daily3-SharedPreferences</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="street_address">Street Address</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="zip">Zip</string>
+    <string name="submit_shared_info">Submit Shared Info</string>
+    <string name="start_activity">Start Activity</string>
+    <string name="populate_text_views">Populate Text Views</string>
+</resources>
